@@ -30,3 +30,6 @@ Just a bunch of AI skeletons
 
  6  7  8  9 <--------- 1 Output
 ```
+## Awesome links
+
+* https://github.com/nbswords
