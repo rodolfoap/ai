@@ -34,3 +34,4 @@ Just a bunch of AI skeletons
 
 * https://github.com/nbswords
 * git@github.com:MachineLearnia/Python-Machine-Learning.git
+* https://github.com/maziarraissi/Applied-Deep-Learning
