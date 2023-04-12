@@ -33,3 +33,4 @@ Just a bunch of AI skeletons
 ## Awesome links
 
 * https://github.com/nbswords
+* git@github.com:MachineLearnia/Python-Machine-Learning.git
