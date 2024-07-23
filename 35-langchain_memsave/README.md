@@ -1,0 +1,1 @@
+The original idea for ~/bin/q

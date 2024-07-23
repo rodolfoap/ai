@@ -1,1 +1,3 @@
-https://www.youtube.com/watch?v=qFGdygmYgto&list=PL4HikwTaYE0GEs7lvlYJQcvKhq0QZGRVn&index=3
+* Simple embeddings example (create embeddings from source, save to db, load from db, make query)
+* Using Redis
+* Using Ollama embeddings: high quality, but could fail with simple things, the dimensional space is too large (I suppose)

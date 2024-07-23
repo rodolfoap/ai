@@ -1,1 +1,3 @@
-https://www.youtube.com/watch?v=qFGdygmYgto&list=PL4HikwTaYE0GEs7lvlYJQcvKhq0QZGRVn&index=3
+* Simple embeddings example (create embeddings from web source, make query),
+* No database
+* Using Ollama embeddings: high quality, but could fail with simple things, the dimensional space is too large (I suppose)
