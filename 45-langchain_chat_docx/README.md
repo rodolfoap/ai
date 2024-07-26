@@ -17,6 +17,23 @@ Mais les réponses étaient si droles que j'en ai copié plusieurs, pour mon log
 Rappelez que ce ne que les responses les plus droles (20%?).
 
 ------------------------------------------
+> C'est quoi, GTD?
+
+Bonjour !
+
+GTD, selon le contexte, apparaît être une organisation ou une entreprise qui utilise des badges pour identifier les personnes à l'intérieur de leurs installations. Les règles mentionnées dans ce document suggèrent que l'organisme a mis en place des procédures pour gérer la perte ou le vol de ces badges.
+
+En d'autres termes, GTD (ou peut-être General Tire & Rubber Company ?) est une entreprise qui produit des pneus et des composants automobiles.
+
+> Est-toi sur?
+
+Non, je ne suis pas sûr ! Dans le document, il n'y a pas de mention explicite sur ce que GTD signifie ou qu'elle produit. Il est possible que GTD soit un nom d'entreprise général qui peut faire référence à tout type d'activité économique. Mais dans ce cas-ci, le contexte suggère plus une entreprise manufacturière ou service en raison de l'utilisation des badges pour identifier les personnes au sein de leurs installations.
+
+> Sais-tu dans quels domaines GTD fournit des services?
+
+Je n'ai pas d'informations spécifiques sur les domaines où GTD fournit des services, car cela ne figure pas dans le document. Cependant, en me basant sur l'information que GTD utilise des badges pour identifier les personnes à l'intérieur de leurs installations, je peux suggérer que GTD est probablement une entreprise manufacturière ou service qui nécessite la présence de personnel dans ses installations.
+
+------------------------------------------
 > Si l'employeur boit cinq litres du vin, dois-je faire pareil?
 
 Bonjour ! Selon le contexte, la consommation d'alcool est autorisée lors des événements préalablement autorisés par la Direction, en quantité raisonnable et sans altérer vos capacités à occuper votre emploi. Cependant, il est important de noter que les alcools autorisés sont spécifiquement le vin, le champagne et la bière.
