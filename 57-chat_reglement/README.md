@@ -6,6 +6,8 @@ Les discussions avec des systèmes LLM sont limitées par une valeur, qui est le
 
 La DB vecteur a été crée depuis le fichier docx [Reglemènt Intérieur GTD](https://redmine.gtd-international.com/dmsf/files/206).
 
+Voilà. Faudra preparer un tech-friday au ce sujet.
+
 ## Features
 
 * Marche completement en laptop locale.
@@ -14,6 +16,7 @@ La DB vecteur a été crée depuis le fichier docx [Reglemènt Intérieur GTD](h
 * [Llama3](https://ollama.com/library/llama3) and [Llama3.1](https://ollama.com/library/llama3.1).
 * [Milvus vectorstore](https://milvus.io).
 * [HuggingFace embeddings](https://docs.llamaindex.ai/en/stable/examples/embeddings/huggingface/): ces qu'on utilise à La Région, semble les meilleurs.
+* Web UI avec [Streamlit](https://streamlit.io): en toute simplicité (40 lignes), voir [ui.py](./ui.py)
 * Pas d'API key (pas de requetes aux services API cloud).
 
 ## Architecture
@@ -49,11 +52,15 @@ La DB vecteur a été crée depuis le fichier docx [Reglemènt Intérieur GTD](h
              '---------------'
 ```
 
+## Web UI
+
+L'interface se fait de facon extremement simple avec Streamlit:
+
+![streamlit.png](streamlit.png)
+
 ## Réponses Drôles
 
-Les réponses étaient si droles que j'en ai copié plusieurs, pour mon log. Voilà. Faudra preparer un tech-friday au ce sujet.
-
-Rappelez que ce ne que les responses les plus droles (20%?). La plupart des réponses communes sont correctes.
+Les réponses étaient si droles que j'en ai copié plusieurs, pour mon log. Rappelez que ce ne que les responses les plus droles (20%?). La plupart des réponses communes sont correctes.
 
 ### Llama 3
 
