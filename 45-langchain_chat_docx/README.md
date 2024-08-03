@@ -298,4 +298,44 @@ Oui, il est mentionné dans le texte que tout accident doit être immédiatement
 
 ------------------------------------------
 
+## Réponses en pseudo-code
+
+------------------------------------------
+
+> Fait l'arbre de decision pour virer un salarie.
+```
+bool procedeVirementSalarie() {
+    if (isAbsent()) { // 3.6 Absences
+        return true;
+    } else if (violationDiscipline(11)) { // 3.1-3.5
+        return true;
+    } else if (!tenueVestimentaire()) { // 3.3
+        return false;
+    } else if (!autorisationEmployeur()) { // Patron n'est pas satisfait ?
+        return true;
+    } else {
+        return false; // aucune raison valable de virer le salarié
+    }
+}
+
+bool violationDiscipline(int section) {
+    // vérifie si il y a eu une infraction au règlement intérieur dans la section demandée
+    if (isFoul(3, 1)) { // 3.1 Respect des instructions
+        return true;
+    } else if (isFoul(3, 2)) { // 3.2 Horaire de travail
+        return true;
+    } ... // vérifie d'autres sections du règlement intérieur si besoin
+
+    return false; // pas de violation constatée
+}
+
+bool autorisationEmployeur() {
+    // interroge le patron ( Employeur ) pour savoir s'il est satisfait ou non
+    bool result = Patron.satisfait();
+    return result;
+}
+```
+
+------------------------------------------
+
 R
