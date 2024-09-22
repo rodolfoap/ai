@@ -26,5 +26,5 @@ Run
 │
 ├── synth-11Labs.py		response.txt->response.wav with ElevenLabs API
 ├── synth-TTS.py		response.txt->response.wav with Amazon TTS locally
-└── response.wav
+└── response.wav		response audio
 ```
